@@ -13,6 +13,6 @@ package paqueteIsabel;
 public class ClaseIsa {
     
     public void HolaMundo() {
-        System.out.println("Hola Mundo");
-    }
+        System.out.println("Hola Mundo");       
+    }  
 }
