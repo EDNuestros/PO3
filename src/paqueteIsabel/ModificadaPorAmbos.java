@@ -11,11 +11,8 @@ package paqueteIsabel;
  * @author Vespertino
  */
 public class ModificadaPorAmbos {
-    public void HolaMundo() {
-        System.out.println("Hola Mundo Ambos");       
-    }  
-    public int Calculo(int a, int b){
-        return a+b;
+    public int resta(int a, int b){
+        return a-b;
     }
     
 }
