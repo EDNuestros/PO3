@@ -14,5 +14,5 @@ public class ClaseAdrian2 {
     public void Mensaje(){
         System.out.println("Hola mundo Adrian 2");
     }
-    
+
 }
