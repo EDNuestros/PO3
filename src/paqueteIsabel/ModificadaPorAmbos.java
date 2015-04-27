@@ -14,4 +14,7 @@ public class ModificadaPorAmbos {
     public int Calculo(int a, int b){
         return a+b;
     }
+    public void HolaMundo() {
+        System.out.println("Van a borrarme.");       
+    } 
 }
